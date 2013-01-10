@@ -45,7 +45,7 @@
 	</script>
 </head>
 <body>
-	<h1>Prueba técnica - ArteINFORMADO</h1>
+	<h1>* Prueba técnica - ArteINFORMADO *</h1>
 	<div id="tag-container"></div>
 	<div id="tag-agregator">
 		<form name="add-tag" method="post" id="add-tag" action="">
