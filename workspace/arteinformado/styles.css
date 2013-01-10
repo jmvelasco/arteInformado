@@ -1,0 +1,48 @@
+* {margin: 0;}
+h1 {
+	font-family: Arial;
+	font-size: 48px;
+	text-align: center;
+	color: #cccccc;
+}
+#tag-container {
+	width: 796px;
+	height: 310px;		
+	border: 2px solid #cccccc;
+	padding: 20px;
+	margin: 0 auto;
+}	
+#tag-agregator {
+	width: 800px;
+	height: 50px;
+	background-color: #cccccc;
+	padding: 20px;
+	margin: 0 auto;
+}
+#tag {
+	border: 1px solid #00a22b;
+	width: 350px;
+	height: 46px;
+	font-size: 48px;
+	vertical-align: middle;
+}
+#add-button {
+	width: 200px;
+	height: 50px;
+	vertical-align: middle;
+}
+#add-tag label.error {
+	margin-left: 10px;
+	width: auto;
+	display: inline;
+}
+.tag {
+	border:1px solid #000000;
+	font-size:24px;
+	font-family:Arial;
+	padding: 5px;
+	float:left;
+	margin: 5px;
+	background-color: #eeeeee;
+
+}
